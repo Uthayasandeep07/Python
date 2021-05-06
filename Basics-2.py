@@ -83,7 +83,7 @@ print('Bitwise AND',a&b)        # Returns (0000 0000)
 
 print('Bitwise OR',a|b)         # Returns (0000 1110) = 14
 
-print('Bitwise NOT',a~b)        # Returns (1111 0101) = -11
+print('Bitwise NOT',~a)        # Returns (1111 0101) = -11
 
 print('Bitwise XOR',a^b)        # Returns (0000 1110) = 14
 
